@@ -1,0 +1,9 @@
+Added Component: Designator=U1(ProMiniV2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+3.3 Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=Mini_TX Pin=U1-13
+Added Pin To Net: NetName=Mini_RX Pin=U1-14
+Added Pin To Net: NetName=Mini_3 Pin=U1-18
+Added Pin To Net: NetName=Mini_4 Pin=U1-19
+Added Member To Class: ClassName=UCAGPS Member=Component U1 Pro Mini V2

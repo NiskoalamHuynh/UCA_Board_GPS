@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=Mini_3 Pin=GPS1-4
+Added Pin To Net: NetName=Mini_3 Pin=U1-17
+Added Net: Name=Mini_3
+Added Pin To Net: NetName=Mini_4 Pin=GPS1-3
+Added Pin To Net: NetName=Mini_4 Pin=U1-18
+Added Net: Name=Mini_4

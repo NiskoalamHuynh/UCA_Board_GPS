@@ -1,0 +1,7 @@
+Added Component: Designator=UCA1(UCABOARD)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Mini_RX Pin=UCA1-1
+Added Pin To Net: NetName=Mini_TX Pin=UCA1-2
+Added Pin To Net: NetName=+3.3 Pin=UCA1-3
+Added Pin To Net: NetName=GND Pin=UCA1-4
+Added Member To Class: ClassName=UCAGPS Member=Component UCA1 UCABoard

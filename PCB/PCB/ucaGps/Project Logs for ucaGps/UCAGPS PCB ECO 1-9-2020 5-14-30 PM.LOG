@@ -1,0 +1,33 @@
+Added Component: Designator=DMN1(CONN-SIL2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=GPS1(GPSNEOM6)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PW1(PowerConvert5To3v3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(ProMiniV2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=UCA1(UCABOARD)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+3.3 Pin=GPS1-1
+Added Pin To Net: NetName=+3.3 Pin=PW1-4
+Added Pin To Net: NetName=+3.3 Pin=U1-8
+Added Pin To Net: NetName=+3.3 Pin=UCA1-3
+Added Net: Name=+3.3
+Added Pin To Net: NetName=GND Pin=GPS1-2
+Added Pin To Net: NetName=GND Pin=PW1-3
+Added Pin To Net: NetName=GND Pin=U1-10
+Added Pin To Net: NetName=GND Pin=UCA1-3
+Added Net: Name=GND
+Added Pin To Net: NetName=Mini_RX Pin=U1-13
+Added Pin To Net: NetName=Mini_RX Pin=UCA1-1
+Added Net: Name=Mini_RX
+Added Pin To Net: NetName=Mini_TX Pin=U1-12
+Added Pin To Net: NetName=Mini_TX Pin=UCA1-2
+Added Net: Name=Mini_TX
+Added Pin To Net: NetName=NetDMN1_1 Pin=DMN1-1
+Added Pin To Net: NetName=NetDMN1_1 Pin=PW1-2
+Added Net: Name=NetDMN1_1
+Added Pin To Net: NetName=NetDMN1_2 Pin=DMN1-2
+Added Pin To Net: NetName=NetDMN1_2 Pin=PW1-1
+Added Net: Name=NetDMN1_2
+Added Class: Name=UCAGPS

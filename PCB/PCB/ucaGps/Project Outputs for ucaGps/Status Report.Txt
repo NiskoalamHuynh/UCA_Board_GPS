@@ -1,0 +1,10 @@
+Output: Report Board Stack
+Type  : Report Board Stack
+From  : Project [ucaGps.PrjPcb]
+   Generated File[UCAGPS.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 7:37:12 AM On 1/10/2020
